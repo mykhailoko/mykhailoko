@@ -1,4 +1,4 @@
-Hi 👋, I'm <a href="https://mykhailoko.github.io/Michael/" target="_blank">Michael</a>
+Hi 👋, I'm [Michael](https://mykhailoko.github.io/Michael/)
 ========================
 
 
