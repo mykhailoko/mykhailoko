@@ -3,8 +3,7 @@ Hi 👋, I'm [Michael](https://mykhailoko.github.io/Michael/)
 
 
 ### 📊 Stats
-<!--![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykhailoko&theme=react&show_icons=true&hide_border=true&count_private=true)-->
-![Michael's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mykhailoko&theme=dark&hide_border=true)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykhailoko&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 ### Skills
 <p align="left">
